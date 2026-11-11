@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000539556987",
+    "project_id": "resultadosdefibrosis",
+    "storage_bucket": "resultadosdefibrosis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000539556987:android:3c1c699b05e872ac36e6de",
+        "android_client_info": {
+          "package_name": "com.example.detectordefibrosisp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqreeczU0HF46WLIxX6_5lMlB_2jM9d48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
